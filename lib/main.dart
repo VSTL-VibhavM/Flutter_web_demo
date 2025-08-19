@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           title: Text('Flutter Web App'),
         ),
         body: Center(
-          child: Text('Hello Flutter Web! 🚀'),
+          child: Text('Hello Flutter Web! Welcome '),
         ),
       ),
     );
